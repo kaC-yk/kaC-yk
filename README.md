@@ -1,29 +1,12 @@
 ## Hi there 👋
 
+I'm Kacper, a 2nd-year student in an IT-related field, and I'm from Poland. I'm learning new things every day and doing my best with my personal projects 😊
 
-I'm Kacper, 2nd year Student in IT related field and im from Poland.
-Learning new things every day and trying my best in personal projects 😊
+Currently, I have a college project with my friends, but soon I'm planning to work on a small web scraping project that will compare the prices of something (not decided yet).
 
+I'm currently looking for an internship, so if you're looking for someone willing to learn, I'm here 😊 If you'd like to teach me some exciting new things, please message me via email 😯
 
-
-
-
-currently i have college project with my friends, but any time soon im planning to work on small web scrapping project that will compare price of something
-(not decided yet)
-
-
-
-I'm currently  looking for  an internship so if you looking for someone willing to learn im here 😊
-If you want to teach me some new exciting things please message me through my E-mail 😯
-
-
-
-
-Soon i will work on my README files for every project that i made to practise me documentation skills (if you want to teach me im waiting 🤭)
-
-
-
-
+Soon, I will work on README files for every project I've made to practice my documentation skills (if you want to teach me, I'm waiting 🤭)
 <!--
 **kaC-yk/kaC-yk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
