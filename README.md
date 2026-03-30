@@ -1,4 +1,10 @@
 ## Hi there 👋
+I'm Kacper, 2nd year Student in IT related field.
+Learning new things every day and trying my best in personal projects :)
+
+currently i have college project with my friends, but any time soon im planning to work on small web scrapping project
+I'm looking for internship.
+If you want to teach me some new exciting things please message me through my E-mail ;O
 
 <!--
 **kaC-yk/kaC-yk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
