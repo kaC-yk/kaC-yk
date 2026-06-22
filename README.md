@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kacper, a 2nd-year student in an IT-related field, and I'm from Poland. I'm learning new things every day and doing my best with my personal projects 😊
+I'm Kacper, a 3rd-year student in an IT-related field, and I'm from Poland. I'm learning new things every day and doing my best with my personal projects 😊
 
 Currently, I have a college project with my friends, but soon I'm planning to work on a small web scraping project that will compare the prices of something (not decided yet).
 
